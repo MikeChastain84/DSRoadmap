@@ -1,4 +1,4 @@
-# DSRoadmap
+# DS Roadmap
 Resources for a Data Science Roadmap
 
 ## Project Overview
