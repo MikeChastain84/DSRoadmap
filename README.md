@@ -4,6 +4,9 @@ Resources for a Data Science Roadmap
 ## Project Overview
 This project offers a comprehensive glossary of terms and definitions, organized by modules, to aid in the exploration and analysis of key concepts. The glossary is available as a CSV file, which can be utilized in both spreadsheet software and Python notebooks, providing flexibility and advanced functionalities.
 ## Key Features
+
+HTML Viewer: Click on html_preview_links.md to gain access to each module overview that has been used for this project. Code can be located in the the relative class depository.
+
 Spreadsheet Usage: The CSV file can be seamlessly integrated with spreadsheet software like Google Sheets or Microsoft Excel. This enables users to effortlessly view, sort, and filter the glossary by terms, modules, and definitions, facilitating quick access to specific information.
 
 Python Notebook Integration: For users seeking more advanced functionalities, the project provides a Python notebook that offers:
