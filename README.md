@@ -19,7 +19,7 @@ Python Notebook Integration: For users seeking more advanced functionalities, th
     * Click on Run in Colab
     * Go to Run...Run All
     * Scroll to tbe bottom and wait for LLM to load
-    * Enter a similarity search term in the prompt
+    * Enter a similarity search term in the prompt when it becomes available
 
 ### Additional Resources
 For data science enthusiasts seeking further learning and development opportunities, the project also includes a curated list of resources:
