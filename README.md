@@ -17,7 +17,7 @@ Python Notebook Integration: For users seeking more advanced functionalities, th
 * Example Usage:
     * Go to Modules/Glossary.ipynb
     * Click on Open in Colab
-    * Go to Runtime...Run All
+    * Go to Runtime...Run all
     * Scroll to tbe bottom and wait for LLM to load
     * Enter a similarity search term in the prompt when it becomes available
 
