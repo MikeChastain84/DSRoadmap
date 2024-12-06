@@ -14,6 +14,12 @@ Python Notebook Integration: For users seeking more advanced functionalities, th
 * Sorting: Sort the glossary by terms or modules, enabling customized organization of the data.
 * Similarity Search: Leverage pre-calculated vector embeddings to identify semantically similar terms. This feature allows users to explore related concepts and discover connections within the glossary.
 * Visit Modules/Glossary.ipynb for examples
+* Example Usage:
+    * Go to Modules/Glossary.ipynb
+    * Click on Run in Colab
+    * Go to Run...Run All
+    * Scroll to tbe bottom and wait for LLM to load
+    * Enter a similarity search term in the prompt
 
 ### Additional Resources
 For data science enthusiasts seeking further learning and development opportunities, the project also includes a curated list of resources:
